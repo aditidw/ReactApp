@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `node server.js`
+
+Runs the node server.js because I was having issues running the Smarkets API : https://api.smarkets.com/v3/events/?state=upcoming&type=event_type 
+It was showing me CORS error. 
+So I created my own server at http://localhost:4005
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
